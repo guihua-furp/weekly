@@ -7,13 +7,13 @@ This page shares selected updates on global planning frontiers, the Editor-in-Ch
 
 ## Sections
 
-* **Editor-in-Chief’s Weekly Reflections**
-* **FURP Article Highlights**
-* **Academic Conferences**
-* **Scholar Interviews**
-* **Book Recommendations**
-* **Emerging Urban Technologies**
-* **FURP Jounral Updates**
+- [Editor-in-Chief’s Weekly Reflections](sections/editor-in-chief-reflections.html)
+- [FURP Article Highlights](sections/furp-article-highlights.html)
+- [Academic Conferences](sections/academic-conferences.html)
+- [Scholar Interviews](sections/scholar-interviews.html)
+- [Book Recommendations](sections/book-recommendations.html)
+- [Emerging Urban Technologies](sections/emerging-urban-technologies.html)
+- [FURP Journal Updates](sections/furp-journal-updates.html)
 
 
 ## Latest Issues
