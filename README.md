@@ -18,9 +18,7 @@ This page shares selected updates on global planning frontiers, the Editor-in-Ch
 
 ## Latest Issues
 
-- [Issue 001 | 19 June 2026](issues/2026-06-19-weekly.md)
-
-[View all weekly issues](issues/)
+Coming soon.
 
 
 ## About FURP
