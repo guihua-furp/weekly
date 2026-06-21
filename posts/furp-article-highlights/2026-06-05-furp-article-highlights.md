@@ -1,12 +1,16 @@
 # Digital Applications in China’s Urban–Rural Heritage Conservation
 
 **Chinese Title:** 中国城乡遗产保护中的数字化应用：技术发展、治理挑战与优化路径
-**Date:** 2 June 2026
-**Source:** FURP WeChat Official Account
-**Section:** FURP Article Highlights
-**Original WeChat Link:** https://mp.weixin.qq.com/s/JGGmBq1OD_VDypOTvHHSyg
-**Full Article:** https://doi.org/10.1007/s44243-026-00079-4
 
+**Date:** 2 June 2026
+
+**Source:** FURP WeChat Official Account
+
+**Section:** FURP Article Highlights
+
+**Original WeChat Link:** https://mp.weixin.qq.com/s/JGGmBq1OD_VDypOTvHHSyg
+
+**Full Article:** https://doi.org/10.1007/s44243-026-00079-4
 
 ## Keywords
 
@@ -49,11 +53,13 @@ The study demonstrates that digital technologies are fundamentally reshaping the
 
 ## Images
 
-![FURP Article Highlight](../../assets/images/furp-article-highlights/2026-06-05-furp-article-highlight-01.jpg)
-![FURP Article Highlight](../../assets/images/furp-article-highlights/2026-06-05-furp-article-highlight-02.jpg)
+![FURP Article Highlight 1](https://guihua-furp.github.io/weekly/assets/images/furp-article-highlights/2026-06-05-furp-article-highlight-01.jpg)
+
+![FURP Article Highlight 2](https://guihua-furp.github.io/weekly/assets/images/furp-article-highlights/2026-06-05-furp-article-highlight-02.jpg)
 
 
 ---
 
 [Back to FURP Article Highlights](../../sections/furp-article-highlights.html)
+
 [Back to Homepage](../../)
